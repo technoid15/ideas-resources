@@ -1,0 +1,2 @@
+# ideas-resources
+Ideas, resources
